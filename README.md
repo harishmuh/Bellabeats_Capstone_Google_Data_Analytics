@@ -1,2 +1,4 @@
-# Bellabeats_Capstone_Google_Data_Analytics
-Capstone project - Google data analytics professional 
+![Bellabeat logo]()
+
+# Bellabeats fitness health tracker analytics
+**Capstone project - Google data analytics professional** 
